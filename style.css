@@ -1,0 +1,68 @@
+* {
+  margin: 0px;
+  width: auto;
+}
+.box {
+  display: block;
+  background-color: #4881c7;
+  width: auto;
+  height: 500px;
+}
+.prof {
+  width: 415px;
+  height: 415px;
+  margin-top: 50px;
+  margin-right: 140px;
+  border-radius: 50%;
+}
+.nama {
+  text-align: left;
+  margin-left: 70px;
+  color: white;
+  font-size: 80px;
+}
+.sekolah {
+  text-align: left;
+  margin-left: 70px;
+  margin-top: -7px;
+  color: white;
+  font-size: 45px;
+}
+.nomor {
+  text-align: left;
+  margin-left: 70px;
+  margin-top: 70px;
+  color: white;
+  font-size: 25px;
+}
+img {
+  width: 60px;
+  border-radius: 50%;
+}
+.email {
+  text-align: left;
+  margin-left: 70px;
+  color: white;
+  font-size: 25px;
+}
+.alamat {
+  text-align: left;
+  margin-left: 70px;
+  color: white;
+  font-size: 25px;
+}
+.satu {
+  margin-top: 30px;
+}
+.dua {
+  margin-top: 30px;
+}
+.empat {
+  margin-top: -35px;
+}
+.lima {
+  margin-top: -200px;
+}
+li {
+  font-size: 25px;
+}
